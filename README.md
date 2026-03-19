@@ -28,3 +28,8 @@ jalkfdbkjhafbfljdsabhfnadsjbflbsahjklbflkjhadsbkjfbkajhsbdfhjklabdshjkbfjhkasdbh
 ![alt text](https://img.shields.io/badge/Kaggle-Competition-20BEFF?logo=kaggle)
 
 ![alt text](https://img.shields.io/badge/license-MIT-green.svg)
+
+
+![mAP50](https://img.shields.io/badge/mAP@50-0.888-success.svg?style=for-the-badge)
+![mAP50-95](https://img.shields.io/badge/mAP@50--95-0.778-blue.svg?style=for-the-badge)
+![Tracking](https://img.shields.io/badge/Tracker-BotSORT-ff69b4.svg?style=for-the-badge&logo=target)
