@@ -15,3 +15,16 @@ jalkfdbkjhafbfljdsabhfnadsjbflbsahjklbflkjhadsbkjfbkajhsbdfhjklabdshjkbfjhkasdbh
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" />
 </p>
+
+
+![alt text](https://img.shields.io/badge/python-3.10+-blue.svg)
+
+![alt text](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+
+![alt text](https://img.shields.io/badge/YOLOv8%2Fv11-Ultralytics-blue?logo=ultralytics)
+
+![alt text](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&logoColor=white)
+
+![alt text](https://img.shields.io/badge/Kaggle-Competition-20BEFF?logo=kaggle)
+
+![alt text](https://img.shields.io/badge/license-MIT-green.svg)
